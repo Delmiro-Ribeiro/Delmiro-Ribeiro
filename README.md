@@ -2,7 +2,7 @@
 
 ### Aqui vão algumas informações sobre mim: ###
 
-- 🔭 Sou estudante de análise e desenvolvimento de sistemas pelo Centro universsitário Leonardo Davinci(Uniasselvi)
+- 🔭 Sou estudante de análise e desenvolvimento de sistemas pelo Centro universitário Leonardo Davinci(Uniasselvi)
 - 🌱 Estou aprendendo Html,Css e JS no momento,**contudo meu foco e no back-end com java e banco de dados(e python futuramente).**
 - 👯 Contribuo com meu repositório por enquanto,contudo com o tempo pretendo contribuir muito com projetos open source.
 - 🤔 **Procuro uma oportunidade de estágio.**
