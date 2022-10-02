@@ -2,7 +2,6 @@
 
 ### Aqui vão algumas informações sobre mim: ###
 
-[![@delmiro's Holopin board](https://holopin.io/api/user/board?user=delmiro)](https://holopin.io/@delmiro)
 
 - 🔭 Sou estudante de análise e desenvolvimento de sistemas pelo Centro universitário Leonardo Davinci(Uniasselvi)
 - 🌱 Estou aprendendo Html,Css e JS no momento,**contudo meu foco e no back-end com java e banco de dados(e python futuramente).**
@@ -11,6 +10,8 @@
 - 💬 Entre em contato comigo.
 - 📫 Você pode me encontrar atravez das minhas redes sociais logo abaixo.
 - 😄 Apelido: Júnior.
+
+[![@delmiro's Holopin board](https://holopin.io/api/user/board?user=delmiro)](https://holopin.io/@delmiro)
 
   <a href="https://www.instagram.com/delmiro__jr/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mirotec" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
