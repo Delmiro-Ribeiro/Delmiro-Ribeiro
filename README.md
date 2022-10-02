@@ -2,6 +2,8 @@
 
 ### Aqui vão algumas informações sobre mim: ###
 
+[![@delmiro's Holopin board](https://holopin.io/api/user/board?user=delmiro)](https://holopin.io/@delmiro)
+
 - 🔭 Sou estudante de análise e desenvolvimento de sistemas pelo Centro universitário Leonardo Davinci(Uniasselvi)
 - 🌱 Estou aprendendo Html,Css e JS no momento,**contudo meu foco e no back-end com java e banco de dados(e python futuramente).**
 - 👯 Contribuo com meu repositório por enquanto,contudo com o tempo pretendo contribuir muito com projetos open source.
@@ -15,7 +17,7 @@
   <a href = "mailto:delmiroribeiro.alpha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/delmiro-ribeiro-7452411a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delmiro-Ribeiro&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delmiro-Ribeiro&layout=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delmiro-Ribeiro&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delmiro-Ribeiro&layout=&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
   
 
