@@ -5,7 +5,6 @@
 
 - 🔭 Sou estudante de análise e desenvolvimento de sistemas pelo Centro universitário Leonardo Davinci(Uniasselvi)
 - 🌱 Estou aprendendo Html,Css e JS no momento,**contudo meu foco e no back-end com java e banco de dados(e python futuramente).**
-- 🤔 **Procuro uma oportunidade de estágio.**
 - 💬 Entre em contato comigo.
 - 📫 Você pode me encontrar atravez das minhas redes sociais logo abaixo.
 - 😄 Apelido: Júnior.
