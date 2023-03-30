@@ -1,13 +1,5 @@
 ### Olá👋 Me chamo Delmiro Ribeiro
 
-### Aqui vão algumas informações sobre mim: ###
-
-
-- 🔭 Sou estudante de análise e desenvolvimento de sistemas pelo Centro universitário Leonardo Davinci(Uniasselvi)
-- 🌱 Estou aprendendo Html,Css e JS no momento,**contudo meu foco e no back-end com java e banco de dados(e python futuramente).**
-- 💬 Entre em contato comigo.
-- 📫 Você pode me encontrar atravez das minhas redes sociais logo abaixo.
-- 😄 Apelido: Júnior.
 ---
 [![@delmiro's Holopin board](https://holopin.io/api/user/board?user=delmiro)](https://holopin.io/@delmiro)
 ---
