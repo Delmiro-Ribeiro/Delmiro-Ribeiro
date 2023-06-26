@@ -7,10 +7,6 @@
  	<a href="https://www.twitch.tv/mirotec" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> ___
   <a href = "mailto:delmiroribeiro.alpha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>___
   
-  ---
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delmiro-Ribeiro&show_icons=true&theme=radical) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delmiro-Ribeiro&layout=&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
   
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
