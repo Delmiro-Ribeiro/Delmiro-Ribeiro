@@ -1,5 +1,3 @@
-### Olá👋 Me chamo Delmiro Ribeiro
-
 ---
 [![@delmiro's Holopin board](https://holopin.io/api/user/board?user=delmiro)](https://holopin.io/@delmiro)
 ---
