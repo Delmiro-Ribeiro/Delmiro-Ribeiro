@@ -1,7 +1,7 @@
 # Delmiro Ribeiro
 
 <p>
-  Desenvolvedor back-end Java em Brasília - DF, Brasil, graduando em Análise e desenvolvimento de sistemas, já com foco em ciber Segurança. Sou apaixonado por tecnologia, pois além da identificação natural, sou péssimo em trabalhos manuais, iniciei minha jornada na área pelo básico HTML, CSS e javaScript com VSCode, hoje meu foco e total no back-end com Java no qual estou amando trabalhar.
+  Desenvolvedor back-end Python em Brasília - DF, Brasil, graduando em Análise e desenvolvimento de sistemas, já com foco em analise de dados. Sou apaixonado por tecnologia, pois além da identificação natural, sou péssimo em trabalhos manuais, iniciei minha jornada na área pelo básico HTML, CSS e javaScript com VSCode, hoje meu foco e total no back-end comPython no qual estou amando trabalhar.
   Meus Hobbies favoritos são passeios com a familia, contribuição em projetos open source,Bootcamps, jogos(ainda não faço Lives) e participar de eventos na área de tecnologia e inovação.  
 </p>
 
