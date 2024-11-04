@@ -7,7 +7,7 @@
 
 ---
 
-[![@delmiro's Holopin board](https://holopin.io/api/user/board?user=delmiro)](https://holopin.io/@delmiro)
+[![An image of @delmiro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/delmiro)](https://holopin.io/@delmiro)
 --- 
 # Entre em contato comigo.
 
