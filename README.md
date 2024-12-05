@@ -18,19 +18,3 @@
   [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/delmiro.junior.16/)
   [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/Delmiro16368715)
 --- 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Delmiro-Ribeiro&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) 
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Delmiro-Ribeiro&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
----
-# Linguagens de marcação e estilo.
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
----
-# Linguagens de Programação.
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
----
-# Bibliotecas e Famesworks.
-![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native)
----
