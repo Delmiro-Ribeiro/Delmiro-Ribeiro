@@ -11,7 +11,7 @@
 --- 
 # Entre em contato comigo.
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/dev_miro/)
  	<a href="https://www.twitch.tv/mirotec" target="_blank"><img src="https://img.shields.io/badge/Twitch-black?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:delmiroribeiro.alpha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#0000ff)](https://www.linkedin.com/in/[SEUUSERNAME](https://www.linkedin.com/in/delmiro-ribeiro-7452411a0/)/)
   [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/junior_2020/)
