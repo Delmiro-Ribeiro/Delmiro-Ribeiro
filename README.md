@@ -3,13 +3,18 @@
 <p>
   Desenvolvedor back-end Java em Brasília - DF, Brasil, iniciei minha jornada na área pelo básico HTML, CSS e javaScript com VSCode.
   
-  Atuo desde o levantamento de requisitos até a manutenção dos produtos entreges, possuo boa comunicação, trabalho bem em equipe, sou próativo sempre querendo aprender mais, também sempre que possivél contribuo em projetos open source,Bootcamps, jogos(ainda não faço Lives) e participo de eventos na área de tecnologia e inovação.  
+  Atuo desde o levantamento de requisitos até a manutenção dos produtos entreges, possuo boa comunicação, 
+  trabalho bem em equipe, sou próativo sempre querendo aprender mais, 
+  também sempre que possivél contribuo em projetos open source,Bootcamps,
+  jogos(ainda não faço Lives) e participo de eventos na área de tecnologia e inovação.  
 </p>
 
 ---
 
 [![An image of @delmiro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/delmiro)](https://holopin.io/@delmiro)
 --- 
+[![roadmap.sh](https://roadmap.sh/card/wide/676f38bf70129741a8a6749d?variant=dark)](https://roadmap.sh)
+---
 # Entre em contato comigo.
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/dev_miro/)
