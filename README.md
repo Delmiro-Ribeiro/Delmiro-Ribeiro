@@ -1,7 +1,7 @@
 # Delmiro Ribeiro
 
 <p>
-  Desenvolvedor back-end Java em Brasília - DF, Brasil, iniciei minha jornada na área pelo básico HTML, CSS e javaScript com VSCode.
+  Desenvolvedor de Software em Brasília - DF, Brasil, iniciei minha jornada na área pelo básico HTML, CSS e javaScript com VSCode.
   
   Atuo desde o levantamento de requisitos até a manutenção dos produtos entreges, possuo boa comunicação, 
   trabalho bem em equipe, sou próativo sempre querendo aprender mais, 
